@@ -24,4 +24,10 @@
       </plugin>
     </plugins>
   </build>
-</project>
+<distributionManagement>
+  <repository>
+    <id>Hiring-app-repo</id>
+    <url>http://44.202.66.60:8081/repository/Hiring-app-repo/</url>
+  </repository>
+</distributionManagement>
+  </project>
